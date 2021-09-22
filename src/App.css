@@ -65,5 +65,18 @@ button {
   outline: none;
 }
 
+.loading {
+  width: 450px;
+  min-height: 200px;
+  background-color: white;
+  color: #252d4a;
+  border-radius: 15px;
+  }
 
-
+.section__score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-size: 25px;
+}
